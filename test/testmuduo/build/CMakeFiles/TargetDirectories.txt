@@ -1,0 +1,3 @@
+/usr/vscode/聊天集群项目/test/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/usr/vscode/聊天集群项目/test/testmuduo/build/CMakeFiles/edit_cache.dir
+/usr/vscode/聊天集群项目/test/testmuduo/build/CMakeFiles/server.dir
